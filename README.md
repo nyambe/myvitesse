@@ -145,6 +145,11 @@ When you use this template, try follow the checklist to update your info properl
 And, enjoy :)
 
 ## Usage
+```bash
+git clone  https://github.com/nyambe/myvitesse.git 
+cd myvitesse
+pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
+```
 
 ### Development
 
